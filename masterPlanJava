@@ -1,0 +1,58 @@
+//Jiham Lee
+//Written in Atom
+
+
+Java
+
+Setup:
+  - download BlueJ IDE
+  - download JRE 8 or 7
+
+Lessons:
+  //INTRO
+  - 1: What is Java? How it works & How it is used
+  - 2: Overview of lessons and what to expect
+
+  //BASICS
+
+  - 3: Hello World Program / Basic Syntax
+  - 4: Variables
+  - 5: Types
+  - 6: Numbers and Operations
+  - 7: Strings
+  - 8: Conditional statements
+  - 9: Switch
+  - 10: While loops
+  - 11: Do loops
+  - 12: For loops
+  - 13: Break statement / Continue Statement
+  - 14: User input
+  - 15: Arrays
+  - 16: Arrays of Strings
+  - 17: Multi-Dimensional Arrays
+
+  //Object Oriented Programming Concepts
+  - 18: Classes and Objects
+  - 19: Methods
+  - 20: Get and return values
+  - 21: Setters and "this"
+  - 22: Constructors
+  - 23: Static and Final
+  - 24: String Builder and String Formatting
+  - 25: toString Method
+  - 26: API Docs
+  - 27: Inheritance
+  - 28: Packages
+  - 29: Interfaces
+  - 30: Public, Private, Protected
+  - 31: Polymorphism
+  - 32: Casting
+  - 33: Exceptions
+  - 34: Abstract Classes
+
+  //Special Topics
+  - 35: Recursion
+  - 36: ArrayList
+  - 37: HashMap
+  - 38: Sorting Lists
+  - 39: Personal Project
