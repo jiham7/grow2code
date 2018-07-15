@@ -1,0 +1,5 @@
+Java 7/14 
+
+1. Set up BlueJ
+
+2. Go over Basics

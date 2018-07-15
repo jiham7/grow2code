@@ -1,0 +1,51 @@
+7/14 Lesson 
+
+
+Basic Topics Covered
+1. Variables
+	a. assigning variables require type, name, and value
+		- Example: int a = 4;
+	b. Reassigning variales deletes old value
+	more info: https://www.caveofprogramming.com/java/java-for-complete-beginners-video-part-2-using-variables/
+
+2. Strings
+	a. Strings can be added together (concatenated) by using +
+		- Example: String a = "hello"+"goodbye";
+	more info: https://www.caveofprogramming.com/java-video/java-for-complete-beginners-video-part-3-strings.html
+
+3. List
+	a. declare a list using the type and []
+		- Example: int[] list1 = {1,2,3} or String[] stringList = {"hi", "hello", "aloha"}
+	b. position or index of list starts at 0
+	c. list.length tells you the number of objects in a list 
+	more info: https://www.caveofprogramming.com/java-video/java-for-complete-beginners-video-part-10-arrays.html
+
+4. For loops
+	a. Example Syntax of a for loop: 
+		for(int i = 0; i < 6; i++) {
+			System.out.println("hello");
+		}
+	b. 3 parts of for loop
+		- initialize variable (int i = 0;)
+		- set condition (i < 6)
+		- what happens after loop ends (i++)
+	more info: https://www.caveofprogramming.com/java-video/java-for-complete-beginners-video-part-5-for-loops.html
+
+5. While loops
+	a. Syntax for while loop:
+		int a = 0;
+		while(a < 6)
+		{
+			System.out.println("Hello");
+			a++;
+		}
+	b. difference between for loop and while loop
+		- use for loop when you know the beginning and end to what you are looping for
+		- use while loop when you do not know the end of what you are looping
+	more info: https://www.caveofprogramming.com/java-video/java-for-complete-beginners-video-part-4-while-loops.html
+
+6. Objects and Classes
+	- Classes create objects with constructors and methods can be called on an object
+	- main method does not create objects but run the program: 
+		public static void main(String[] args)
+	- link reference to more information: https://www.caveofprogramming.com/java-video/java-for-complete-beginners-video-part-13-classes-and-objects.html
