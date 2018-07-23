@@ -17,6 +17,8 @@ More Java Basics Covered
 			System.out.println("Run this")
 		}
 
+	- Extra resources: https://beginnersbook.com/2017/08/if-else-statement-in-java/
+
 2. User Input: Take user input and turn into string or integer using Scanner
 	- make sure that scanner class is imported on top of file ( import java.util.Scanner; )
 	- Take in input code: 
@@ -25,7 +27,7 @@ More Java Basics Covered
 		String input = scanner.nextLine();
 	- read line of input as a int code: 
 		int input2 = scanner.nextInt();
-
+	- Extra resources: https://www.codesdope.com/java-input-by-user/
 
 Project: Set a number and tell the user the range. User guesses number and program keeps running until guess is correct. Tell user whether guess is too low or too high. When the guess is correct, congratulate the user and tell the user the number of guesses the user has taken
 
