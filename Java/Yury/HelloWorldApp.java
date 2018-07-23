@@ -1,6 +1,8 @@
 class HelloWorldApp {
     public static void main(String[] args) {
-        // int number = 10;
+         int number = 10;
+         int irina = 9;
+         String u = "hello";
         // int number2 = number;
         // number = number2 * 2;
         // number2 = number + 3;
@@ -45,5 +47,7 @@ class HelloWorldApp {
         
         
         // System.out.println(combined);
+        
+        
     }
 }

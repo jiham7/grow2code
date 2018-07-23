@@ -1,0 +1,41 @@
+7/21/2018 Lesson
+
+Session 2 - Yuri, Irina
+
+Review Irnia from Session 1
+
+
+
+More Java Basics Covered
+
+1. Conditional statements
+	- If statement: if the condition is true, then run code within body
+	- Ex:
+		int a = 4; 
+		if(a > 2)
+		{
+			System.out.println("Run this")
+		}
+
+2. User Input: Take user input and turn into string or integer using Scanner
+	- make sure that scanner class is imported on top of file ( import java.util.Scanner; )
+	- Take in input code: 
+		Scanner scanner = new Scanner( System.in );
+	- read line of input as a string code: 
+		String input = scanner.nextLine();
+	- read line of input as a int code: 
+		int input2 = scanner.nextInt();
+
+
+Project: Set a number and tell the user the range. User guesses number and program keeps running until guess is correct. Tell user whether guess is too low or too high. When the guess is correct, congratulate the user and tell the user the number of guesses the user has taken
+
+	Objectives + Hints:
+        tell user the range (System.out.println)
+        make a variable with a secret number (int a = ?)
+        make a variable that counts the number of guesses (int guess = ?)
+        
+        run the game until guess is correct (while)
+        get the user input of integers  (Scanner, nextInt)
+        check if the guess is lower or higher than the secret number (if ( ))
+        tell user if number is lower or higher than secret number
+        if guess is the same as secret number, tell user that he / she won with the amount of guesses(stop while loop)
