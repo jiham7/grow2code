@@ -1,0 +1,42 @@
+1. If... else statements 
+	- else runs when the if condition is not met
+	- if else (condition) used when more than sione situation
+	- more materials: https://www.tutorialspoint.com/java/if_else_statement_in_java.htm
+
+2. Switch statements
+	- used when multiple conditions need to be checked
+	- example code in Switch.java 
+	- more materials: https://www.geeksforgeeks.org/switch-statement-in-java/
+
+
+Objects and Classes
+	- Objects: Properties, Behavior, identity
+		- instance variables, defines properties
+		- constructors: creates object
+		- methods
+			- 	parameters: input 
+			- 	return methods: returns data
+			- 	void methods: changes data
+	
+
+Notes
+	- CamelCase when naming variables or methods
+	- Casting: Integer.toString(int)
+
+
+
+Assignments: 
+	- GuessBirthday: set a birthday and guess the month name, month day, and month year. When guess is correct, tell number of guesses
+		- use switch / case to guess the number of month
+		- when month is guessed correctly, start guessing day
+		- when day is guessed correctly, start guessing year
+		- count the number of total guesses and tell user when guess is correct
+		
+	- choose an animal and make a class for it
+		- 3 instance variables: String ownerName, String color, int numberOfLegs
+		- 2 constructors: default constructor, constructor with parameters(name, color, numberOfLegs)
+		- 6 methods
+			- make get method for all instance variables
+			- change the color void method
+			- change ownerName void method
+			- toString method
