@@ -17,7 +17,7 @@ Objects and Classes
 			- 	parameters: input 
 			- 	return methods: returns data
 			- 	void methods: changes data
-	
+	- link: https://www.tutorialspoint.com/java/java_object_classes.htm
 
 Notes
 	- CamelCase when naming variables or methods
@@ -31,7 +31,7 @@ Assignments:
 		- when month is guessed correctly, start guessing day
 		- when day is guessed correctly, start guessing year
 		- count the number of total guesses and tell user when guess is correct
-		
+
 	- choose an animal and make a class for it
 		- 3 instance variables: String ownerName, String color, int numberOfLegs
 		- 2 constructors: default constructor, constructor with parameters(name, color, numberOfLegs)
