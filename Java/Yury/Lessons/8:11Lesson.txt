@@ -1,0 +1,39 @@
+8/11/18 Lesson
+
+Inheritance
+	- Parent and Child classes
+	- Child class is able to use all methods and instance variables from parent class
+	- Use extend after delcaring class to make child class of parent class
+	- public, private, protected
+		- public: anyone can access 
+		- private: no one can access 
+		- protected: only children of this class can access
+	- more info: https://www.caveofprogramming.com/javatutorial/java-tutorial-5-inheritance-and-polymorphism.html
+
+Other Object Notes
+	- calling methods from Objects vs calling instance variables
+		- Object.method()
+		- Object.variable
+	- creating a new object
+		- Object o = new Object() 
+		- Object o = new Object(parameterA, parameterB, parameterC)
+
+
+Connect4 Assignment
+	- Create a connect4 game that first prints out the grid of 7 columns and 6 rows 
+	- it then asks if two players are ready to play the game. If yes is typed, then starts game. If no is typed, then it ends the game
+	- It tells player1 to type in a column number to put a chip in
+	- Then after player1 puts in a number from 1-7 (including 7), it creates an "X" on the bottom of the column and reprints the new grid
+	- then it is player2 turn and asks for column to choose. Player2 token is marked with an "O". Reprint the grid after every turn
+	- The tokens fall to bottom of column but above other tokens already in the column
+	- If there are four of the same tokens vertically, horizontally, or diagonally, then the player with the token wins and the game ends as it tells who is the winner
+
+	- Concepts used:
+		- System.out.print and System.out.println for printing grid
+		- 2D arrays for creating grid and storing chips in different parts of the grid
+		- While to keep game running 
+		- Scanner input to ask for input
+		- If, else, ifelse to check if there are 4 chips in a row
+		- if, else to check if there is a chip already in a column and where to place new chip 
+		- No Object or Classes have to be used or necessary, it can be created from one main method class
+
