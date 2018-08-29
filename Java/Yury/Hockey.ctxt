@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hockey
+comment1.params=
+comment1.target=void\ homeGoalScored()
+comment2.params=
+comment2.target=void\ visitingGoalScored()
+comment3.params=period
+comment3.target=void\ endOfPeriod(int)
+comment4.params=ot
+comment4.target=void\ overtimePeriod(int)
+numComments=5

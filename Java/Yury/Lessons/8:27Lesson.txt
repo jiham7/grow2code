@@ -1,0 +1,33 @@
+Bugs About Connect 4
+
+- If O wins, it should stop and not take X input 
+- if column is full, make them choose different column
+- if grid is full, then tie
+
+
+Lesson 8/27/18
+
+
+Multiple Inheritance (Polymorphism)
+	- interfaces: does not have any implementation but only shows headers of what classes should have
+	- uses "implements" after class name
+	- https://www.tutorialspoint.com/java/java_interfaces.htm
+
+Recursion
+	- using the same method to call a smaller section of the input
+	- Requirements for Recursion
+		- base case is required: What input causes the loop to end
+		- if it is not the base, how does the function get closer to the base case
+	- https://www.javatpoint.com/recursion-in-java
+
+
+To-Dos
+	- Start downloading Android studio
+
+
+HW
+- make a method that takes input of a string and returns the reverse of the string 
+- Use recursion to create a function that returns the factorial of the input 
+	- factorial: https://www.purplemath.com/modules/factorial.htm
+- Fibonacci: input is the sequence number and returns value 
+	- https://www.mathsisfun.com/numbers/fibonacci-sequence.html

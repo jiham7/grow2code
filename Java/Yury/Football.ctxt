@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Football
+comment1.params=points
+comment1.target=void\ homeTeamScored(int)
+comment2.params=points
+comment2.target=void\ visitingTeamScored(int)
+comment3.params=quarter
+comment3.target=void\ endOfQuarter(int)
+numComments=4
