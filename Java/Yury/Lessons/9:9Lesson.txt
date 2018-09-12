@@ -1,0 +1,9 @@
+Lesson 9/9 Review
+
+removing duplicates of sorted array
+	- For Help: https://www.geeksforgeeks.org/remove-duplicates-sorted-array/
+
+Setting Up Android Studio
+	- open source projects : https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40
+
+
